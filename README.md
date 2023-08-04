@@ -1,4 +1,4 @@
-# WindowCodeSoft
+# windowCodeSoft
 
 ![windowCodeSoft](https://github.com/wcs-pt/wcs-pt/assets/141438495/26ac8000-81b3-4234-ad8f-0eda5b5d26c9)
 
